@@ -103,9 +103,6 @@ Your task is to compute the top 3 ranking.
 | 3rd      | WAIKIKI SILVIO|
 
 ## Implementation
-The assignment has to be implemented as a spring boot application. Here you will find a boilerplate application implemented in both Java and Kotlin, choose whichever of the two you prefer. Feel free to delete the files you don't need.
-We have set the java version to 15, but you are not required to use Java 15. You can in fact set a lower Java version if you prefer, however Java 8 is minimum. Please note that the boilerplate uses the text blocks feature from Java 15 (so you might have to remove that piece of code first).
-
 The input is provided as an XML document (see examples ```/src/main/resources/input_0.xml```, ```/src/main/resources/input_1.xml``` and ```/src/main/resources/input_2.xml```),
 in case you need it we provide the XML schema for it (```/src/main/resources/input.xsd```)
 
