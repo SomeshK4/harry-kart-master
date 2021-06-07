@@ -117,4 +117,4 @@ The output must be a json document of this form:
 }
 ```
 
-The application we provide has two rest endpoints accepting XML and returning JSON (http://localhost:8080/java/api/play), you can use any of them as entry point.
+The application we provide has one rest endpoint accepting XML and returning JSON (http://localhost:8080/java/api/play).
